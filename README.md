@@ -56,6 +56,9 @@ npm run dev
 ## Demo Photos
 
 ![Screenshot 2025-01-13 144619](https://github.com/user-attachments/assets/296acd35-72d0-4fe2-8731-4d3f96ad4b6d)
+![Screenshot 2025-01-13 150413](https://github.com/user-attachments/assets/1c4b95ad-5605-40a7-b3ca-3701aae7617d)
+![Screenshot 2025-01-13 150403](https://github.com/user-attachments/assets/82eddbf2-f731-4dfb-95ba-86a3082ad38e)
+![profset](https://github.com/user-attachments/assets/79c093b2-d3f6-4eab-a731-667a1fac82d9)
 ![Screenshot 2025-01-13 144719](https://github.com/user-attachments/assets/20e1e6ab-66f8-45d1-873e-7df9b326cc6c)
 ![Screenshot 2025-01-13 144654](https://github.com/user-attachments/assets/66f4c830-dd76-4640-aded-dfd220cae7c5)
 ![Screenshot 2025-01-13 144738](https://github.com/user-attachments/assets/affc8ad6-234d-4166-a40c-38a229d49736)
