@@ -7,6 +7,8 @@ It's a simple game of Rock, Paper, Scissors. Press Quick Match, wait for another
 First, install and run the development server:
 
 ```
+clone project
+
 cd experiment-one
 
 npm install  
