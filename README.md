@@ -15,6 +15,40 @@ npm install
 ```bash
 npm run dev
 ```
+## Key Features
+
+1. Real-time Gameplay
+ * Live multiplayer matches
+ * 30-second move timer
+ * In-game chat system
+2. User System
+ * Authentication
+ * User profiles with avatars
+ * Stats tracking
+3. Game Mechanics
+ * Best of 5 rounds system
+ * Matchmaking queue
+ * Timeout handling
+ * Tie resolution
+4. UI/UX
+ * Responsive design
+ * Beautiful gradients and animations
+ * Real-time game state updates
+ * Player avatars and usernames display
+5. Additional Features
+ * Leaderboard system
+ * Profile customization
+ * Game chat with emoji support
+ * Queue position updates
+
+## Technologies Used
+
+* Next.js 15 - React framework with App Router
+* TypeScript - For type-safe code
+* TailwindCSS - For styling and responsive design
+* Socket.io-client - For real-time game communication
+* React Icons - For UI icons
+* Emoji Picker React - For chat emoji support
 
 
 ## Demo Photos
