@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## RPS Arena - Frontend
 
-First, run the development server:
+This project was made using NextJs, NextJs and MongoDB.
+It's a simple game of Rock, Paper, Scissors. Press Quick Match, wait for another player (you can test using two different browsers) and play!
+
+First, install and run the development server:
+
+```
+cd experiment-one
+
+npm install  
+```
 
 ```bash
 npm run dev
@@ -14,23 +22,13 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Demo Photos
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Screenshot 2025-01-13 144719](https://github.com/user-attachments/assets/20e1e6ab-66f8-45d1-873e-7df9b326cc6c)
+![Screenshot 2025-01-13 144654](https://github.com/user-attachments/assets/66f4c830-dd76-4640-aded-dfd220cae7c5)
+![Screenshot 2025-01-13 144738](https://github.com/user-attachments/assets/affc8ad6-234d-4166-a40c-38a229d49736)
+![Screenshot 2025-01-13 144754](https://github.com/user-attachments/assets/93c31302-f124-4edf-9bec-a813d4384623)
+![Screenshot 2025-01-13 144823](https://github.com/user-attachments/assets/75e6df7a-38d4-4e44-92ce-84013d9bf791)
+![Screenshot 2025-01-13 144838](https://github.com/user-attachments/assets/8959e92a-ba27-44fa-bf69-00109009b445)
+![Screenshot 2025-01-13 144619](https://github.com/user-attachments/assets/296acd35-72d0-4fe2-8731-4d3f96ad4b6d)
